@@ -1,6 +1,7 @@
 ## ¡Hola, soy David! 👋
 
-<img src="https://badges.aleen42.com/src/javascript.svg">
+<img src="https://badges.aleen42.com/src/javascript.svg"> <img src="https://badges.aleen42.com/src/react.svg"> <img src="https://badges.aleen42.com/src/node.svg">
+
 
 Soy un programador autodidacta que, después de años de arduo trabajo como cadete en un estudio jurídico, se dio cuenta que su pasión estaba en el desarrollo web. 💻 Desde entonces, encontré en mi camino una multitud de nuevas y maravillosas experiencias, y sigo en busca de más. Siempre atento al surgimiento de tecnologías modernas, excitantes desafíos, y oportunidades como developer.
 
